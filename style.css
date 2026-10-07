@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UY', Tahoma, Ganeva,
+    Verdana, sans-serif;
+}
+
+
+
+
+body {
+    background-color: #ffe556;
+    color: #c8412d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+
+h1 {
+    color: #00bcf0;
+    font-size: 2rem;
+    margin-bottom: 8px;
+}
+ 
+p {
+    color: #555555;
+    font-size: 1rem;
+    margin-bottom: 25px;
+}
+
+
+button {
+    background-color: black;
+    color: #ffffff;
+    border: none;
+    padding: 14px;
+    font-size: larger;
+}
